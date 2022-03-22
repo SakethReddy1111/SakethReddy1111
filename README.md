@@ -5,9 +5,11 @@ self motivated in building user- centric products. Zest for solving
 complex problems, DSA and learning new languages. Expertise in HTML,
 CSS, Javascript. </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React, Redux**
 
-- 💬 Ask me about **html, css, js, mongodb, express, bootstrap**
+- 👨‍💻 All of my projects are available at [https://sakethreddy.vercel.app/](https://sakethreddy.vercel.app/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Mongodb, Express, React**
 
 - 📫 How to reach me **sakethr007@gmail.com**
 
