@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saket Reddy Vangala</h1>
+<h1 align="center">Hi 👋, I'm Saketh Reddy Vangala</h1>
 <h3 align="center">A passionate fullstack web developer</h3>
 
 - 🌱 I’m currently learning **react**
