@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://sakethreddy-sakethreddy1111-saketh.vercel.app/](https://sakethreddy-sakethreddy1111-saketh.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sakethreddy.vercel.app/](https://sakethreddy.vercel.app/)
 
 - 💬 Ask me about **html, css, js, mongodb, express, bootstrap**
 
