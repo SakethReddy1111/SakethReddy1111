@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saketh Reddy Vangala</h1>
 <h3 align="center">A passionate fullstack web developer</h3>
 
+<h1 align="center">About</h1>
+
+<p>A Full-Stack Developer with an eye for detail, time management skills, self-motivation in building user-centric products. Zest for solving complex problems, DSA, and learning new languages. Expertise in HTML, CSS, Javascript, Express, MongoDB, React, Redux.</p>
+
+
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://sakethreddy.vercel.app/](https://sakethreddy.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sakethreddy-sakethreddy1111-saketh.vercel.app/](https://sakethreddy-sakethreddy1111-saketh.vercel.app/)
 
 - 💬 Ask me about **html, css, js, mongodb, express, bootstrap**
 
