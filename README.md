@@ -6,6 +6,9 @@
 <p>A Full-Stack Developer with an eye for detail, time management skills, self-motivation in building user-centric products. Zest for solving complex problems, DSA, and learning new languages. Expertise in HTML, CSS, Javascript, Express, MongoDB, React, Redux.</p>
 
 
+<h1 align="center"></h1>
+
+
 - 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [https://sakethreddy-sakethreddy1111-saketh.vercel.app/](https://sakethreddy-sakethreddy1111-saketh.vercel.app/)
