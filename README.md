@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saketh Reddy Vangala</h1>
 <h3 align="center">A passionate fullstack web developer</h3>
 
-<h2 align="left">About</h1>
+<h2 align="left">About</h2>
 <p>A Full-Stack Developer with an eye for detail, time management skills, self-motivation in building user-centric products. Zest for solving complex problems, DSA, and learning new languages. Expertise in HTML, CSS, Javascript, Express, MongoDB, React, Redux.</p>
 
 
