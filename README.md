@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sakethreddy.vercel.app/](https://sakethreddy.vercel.app/)
 
-- 💬 Ask me about **html, css, js, mongodb, express, react, redux, materialUI, bootstrap**
+- 💬 Ask me about **html, css, js, mongodb, express, nodejs, react, redux, materialUI, bootstrap**
 
 - 📫 How to reach me **sakethr007@gmail.com**
 
